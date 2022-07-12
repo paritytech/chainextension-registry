@@ -1,0 +1,9 @@
+{
+	"schema": {
+	  "id": "The chain extension's 16bit identifier.",
+	  "repository": "Link to the repository that contains the chain extension.",
+	  "typeName": "The name of the Rust type that implements RegisteredChainExtension within that repo."
+	},
+	"registry": [
+	]
+}
