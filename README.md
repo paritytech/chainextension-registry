@@ -19,6 +19,9 @@ The extensions are defined in a json file:
             within that repo."
     },
     "registry": [
+        "id": 1,
+        "repository:": "https://github.com/paritytech/substrate",
+        "typeName:": "XcmExtension"
     ]
 }
 ```
