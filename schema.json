@@ -1,0 +1,20 @@
+{
+	"title": "ChainExtensionRegistry",
+	"description": "A registry for smart contract chain extensions.",
+	"type": "array",
+	"properties": {
+		"id": {
+			"description": "The unique identifier for the chain extension.",
+			"type": "integer"
+		},
+		"repository": {
+			"description": "Link to the repository that contains the chain extension.",
+			"type": "string"
+		},
+		"typeName": {
+			"description": "The name of the Rust type that implements RegisteredChainExtension within repository.",
+			"type": "string"
+		}
+	},
+	"required": [ "id", "repository", "typeName"]
+}
