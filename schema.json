@@ -1,6 +1,4 @@
 {
-	"$schema": "https://json-schema.org/draft/2020-12/schema",
-	"$id": "https://example.com/chain_extension_registry.schema.json",
 	"title": "ChainExtensionRegistry",
 	"description": "A registry for smart contract chain extensions.",
 	"type": "array",
