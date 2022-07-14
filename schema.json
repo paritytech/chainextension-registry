@@ -4,7 +4,7 @@
 	"type": "array",
 	"properties": {
 		"id": {
-			"description": "The unique identifier for a product.",
+			"description": "The unique identifier for the chain extension.",
 			"type": "integer"
 		},
 		"repository": {
