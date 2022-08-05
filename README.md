@@ -17,12 +17,11 @@ The extensions are defined in a json file. Example:
         "repository:": "https://github.com/paritytech/polkadot",
         "typeName:": "XcmExtension"
     },
-     {
+    {
         "id": 99,
         "repository:": "https://github.com/paritytech/substrate",
         "typeName:": "AssetExtension"
-    },
-
+    }
 ]
 ```
 
