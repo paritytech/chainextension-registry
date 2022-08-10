@@ -2,6 +2,6 @@
     {
         "id": 1,
         "repository:": "https://github.com/paritytech/pallet-contracts-xcm",
-        "typeName:": "XcmExtension"
+        "typeName:": "Extension"
     }
 ]
