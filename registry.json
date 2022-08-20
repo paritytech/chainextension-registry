@@ -3,5 +3,10 @@
         "id": 1,
         "repository:": "https://github.com/paritytech/pallet-contracts-xcm",
         "typeName:": "Extension"
+    },
+    {
+        "id": 0x48f6,
+        "repository:": "https://github.com/Supercolony-net/pallet-assets-chain-extension",
+        "typeName:": "AssetsExtension"
     }
 ]
